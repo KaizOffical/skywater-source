@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "OwnerID": "BOT_OWNER_ID",
+  "prefix": "PREFIX",
+  "cyan": "#00ffff",
+  "green": "#00ff00",
+  "red": "#ff0000",
+  "mongo": "YOUR_MONGO"
+}
